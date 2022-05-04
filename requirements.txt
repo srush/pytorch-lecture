@@ -1,7 +1,13 @@
+celluloid
 ipython
+ipdb
 jupyter
 matplotlib
 numpy
 scikit-learn
+scipy
+seaborn
+pandas
+Pillow
 torch
 torchvision
