@@ -16,9 +16,11 @@ Throughout this course we will be using:
 [Lecture 3](https://github.com/mtreviso/pytorch-lecture/blob/master/03-modules-and-mlps.ipynb): PyTorch `nn.Modules` alongside training and evaluation loop 
 <br>
 [Lecture 4](https://github.com/mtreviso/pytorch-lecture/blob/master/04-optional-word2vec.ipynb): Implementation of a proof-of-concept Word2Vec in PyTorch <br>
-⏳⏳⏳ [Bonus](https://github.com/mtreviso/pytorch-lecture/blob/master/bonus-computational-efficiency.ipynb): Comparison of the computation efficiency between raw Python, Numpy, and PyTorch (with and without JIT) 
+⏳ [Bonus](https://github.com/mtreviso/pytorch-lecture/blob/master/bonus-computational-efficiency.ipynb): Comparison of the computation efficiency between raw Python, Numpy, and PyTorch (with and without JIT) 
 <br>
-🔥🔥🔥 [PyTorch Challenges](https://github.com/mtreviso/pytorch-lecture/blob/master/challenges-for-true-pytorch-heroes.ipynb): a set of 27 mini-puzzles 🧩 (extension of the ones proposed by [Sasha Rush](https://github.com/srush/Tensor-Puzzles))
+🔥 [PyTorch Challenges](https://github.com/mtreviso/pytorch-lecture/blob/master/challenges-for-true-pytorch-heroes.ipynb): a set of 27 mini-puzzles  (extension of the ones proposed by [Sasha Rush](https://github.com/srush/Tensor-Puzzles))
+<br>
+🌎 [From Puzzles to Real Code](https://github.com/mtreviso/pytorch-lecture/blob/master/broadcasting_real_examples.ipynb): Examples of broadcasting in real word applications: **wordpieces aggregation**, **clustered attention**, **attention statistics**.
 
 
 # Installation
